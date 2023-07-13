@@ -47,6 +47,7 @@ function App() {
 
     return (
         <div className="App">
+            aaaaa
             <SideBar items={items} handleItemClick={handleItemClick} />
             <MainContent cookies={cookies} cps={cps} handleCookieClick={handleCookieClick} />
         </div>
